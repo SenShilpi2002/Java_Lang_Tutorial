@@ -7,6 +7,7 @@ public class findindex{
         System.out.println("Enter the size of the array");
         int size=sc.nextInt();
 
+        //1d array declaration
         int arr[]=new int [size];
 
         System.out.println("Enter array elements");
