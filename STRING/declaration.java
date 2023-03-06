@@ -21,7 +21,7 @@ public class declaration{
     }
 }*/
 
-/*
+
 import java.util.*;
 public class declaration{
     public static void main(String args[]){
@@ -36,7 +36,7 @@ public class declaration{
             System.out.println(name.charAt(i));
         }
     }
-}*/
+}
 
 
 
@@ -65,7 +65,7 @@ public class declaration{
 }*/
 
 
-import java.util.*;
+/*import java.util.*;
 public class declaration{
     public static void main(String args[]){
         Scanner sc=new Scanner(System.in);
@@ -76,7 +76,7 @@ public class declaration{
 
 
     }
-}
+}*/
 
 
 
